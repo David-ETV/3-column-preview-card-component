@@ -249,6 +249,7 @@ button:hover{
   section{
     margin: 0;
     height: 30rem;
+    padding-bottom: 5rem;
   }
 
   .section-sedans{
