@@ -268,8 +268,13 @@ button:hover{
   p{
     font-size: calc(.65em + .65vw);
     letter-spacing: 0;
+    
   }
   button{
-    margin: 4rem 0 0 0;
+    position: absolute;
+    bottom: 9rem;
+    width: 10rem;
+    
+   
   }
 }
